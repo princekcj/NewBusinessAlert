@@ -71,7 +71,7 @@ py==1.10.0
 py-solc-ast==1.2.9
 py-solc-x==1.1.0
 pycparser==2.21
-=Pygments==2.9.0
+Pygments==2.9.0
 PyJWT==1.7.1
 pyparsing==2.4.7
 pyrsistent==0.18.0
